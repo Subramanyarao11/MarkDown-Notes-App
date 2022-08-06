@@ -23,7 +23,10 @@ Marked JS :- Under the hood it uses Marked JS to convert markdown syntax to HTML
 
 ### Vite,Vanilla JS and Local Storage API
 
+## Deployment
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/19250096-aefa-4a11-a9ac-39c02635efb0/deploy-status)](https://app.netlify.com/sites/markdwon-notes-app/deploys)
 
 ## Try App Yourself!
 
-[Click Here!](https://www.example.com)
+[Click Here!](https://markdwon-notes-app.netlify.app/)
